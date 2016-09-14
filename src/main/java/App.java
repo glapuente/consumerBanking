@@ -3,6 +3,6 @@
  */
 public class App {
     public static void main(String[] args) {
-        Util.printMessage("ello World!");
+        Util.printMessage("Hello World!");
     }
 }
