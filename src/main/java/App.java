@@ -4,6 +4,6 @@
 public class App {
     public static void main(String[] args) {
         Util.printMessage("Hello World!");
-        Util.printMssage("Kaixo Mundua!");
+        Util.printMessage("Kaixo Mundua!");
     }
 }
